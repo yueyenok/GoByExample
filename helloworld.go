@@ -9,4 +9,5 @@ func main() {
 	fmt.Printf("hello world")
 	value()
 	values()
+	funcfor()
 }
