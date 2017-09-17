@@ -1,9 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 //frist go
 func main() {
 	fmt.Printf("hello world")
-
+	value()
+	values()
 }
